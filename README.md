@@ -1,5 +1,7 @@
 # Fabbia Demo
 
+----> Hosted app ![HERE](https://eurasian-hack-fabbia-4jyr6jggfcnrp5nudabh6p.streamlit.app/) <----
+
 ### Team: Always Late
 
 ![Generated Content](generated.png)
