@@ -1,0 +1,4 @@
+openai==1.55.0
+streamlit==1.40.1
+audio-recorder-streamlit==0.0.10
+python-dotenv==1.0.1
